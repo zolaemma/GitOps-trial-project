@@ -1,0 +1,1 @@
+# GitOps-trial-project
